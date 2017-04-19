@@ -16,3 +16,16 @@ Installation:
 cd ~/catkin_ws/src
 
 git clone ..
+
+Troubleshotting
+--
+Using Raspberry Pi - Ubuntu Mate
+Problem with permission on serial port
+
+Add user to group dialout:
+usermod -a -G dialout [user]
+(Need to logout before it will work)
+
+Quick fix:
+sudo chmod 666 /dev/[port] ex.ttyUSB0
+
