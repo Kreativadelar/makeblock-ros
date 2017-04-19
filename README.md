@@ -1,5 +1,5 @@
 # makeblock-ros
-Makeblock Orion ros bridge.
+Makeblock Me Auriga ros bridge.
 
 Features:
 --
