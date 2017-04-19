@@ -6,6 +6,10 @@ Features:
 - Get ultrasonic sensor data - Topic 
 - Move robot - Service (rosservice call /makeblock_ros_move_motors -- 0 0)
 
+Hardware:
+--
+Connect ultrasonic sensor to port 9
+
 Required:
 --
 - pip install megapi
