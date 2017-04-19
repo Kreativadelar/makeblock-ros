@@ -17,7 +17,7 @@ cd ~/catkin_ws/src
 
 git clone ..
 
-Troubleshotting
+Troubleshooting
 --
 Using Raspberry Pi - Ubuntu Mate
 Problem with permission on serial port
